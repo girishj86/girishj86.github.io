@@ -1,12 +1,7 @@
 # Skills
 # Passion for technology
 - skill: Passion for technology
-  description: <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fa fa-check"></i></span>List icons can</li>
-  <li><span class="fa-li"><i class="fa fa-check"></i></span>be used to</li>
-  <li><span class="fa-li"><i class="fa fa-check"></i></span>replace bullets</li>
-  <li><span class="fa-li"><i class="fa fa-check"></i></span>in lists</li>
-</ul>
+  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>List icons can</li><li><span class="fa-li"><i class="fa fa-check"></i></span>be used to</li><li><span class="fa-li"><i class="fa fa-check"></i></span>replace bullets</li><li><span class="fa-li"><i class="fa fa-check"></i></span>in lists</li></ul>
   
 # Experienced tester
 - skill: Experienced tester
