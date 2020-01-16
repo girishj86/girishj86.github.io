@@ -2,12 +2,12 @@
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
-![img](images/screenshot.png)
+# ![img](images/screenshot.png)
 
 ## Docs
 
 ### About
-The template is made by [Joel Glovier](https://github.com/jglovier) and customized by [me](https://github.com/andreidbr/).
+The template is made by [Joel Glovier](https://github.com/jglovier) and customized by [me](https://github.com/girishj86/).
 
 ### Running locally
 
