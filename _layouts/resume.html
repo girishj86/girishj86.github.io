@@ -20,7 +20,12 @@
         <!-- Contact buttons don't work in print, configure in the _config.yml file, remove "print-only" to display always. -->
         <div class="header-contact-info" itemprop="contact-info">
           <!--<p>{{ site.resume_header_contact_info }}</p>-->
-          <p style="text-align:left;"><i class="fa fa-phone" style="font-size:18px" aria-hidden="true"> +91-9538453129</i><span style="float:right;"><i class="fa fa-envelope-square" style="font-size:18px" aria-hidden="true"> girishj.86@gmail.com</i></span></p>
+          <!--<p style="text-align:left;"><i class="fa fa-phone" style="font-size:18px"> +91-9538453129</i><span style="float:right;"><i class="fa fa-envelope-square" style="font-size:18px"> girishj.86@gmail.com</i></span></p> -->
+		  <div>
+			<p style="float:left;"><i class="fa fa-phone" style="font-size:18px"> +91-9538453129</i></p>
+			<p style="float:right;"><i class="fa fa-envelope-square" style="font-size:18px"> girishj.86@gmail.com</i></p>
+		  </div>
+		  <div style="clear: both;"></div>
         </div>
 
         <div class="title-bar no-print">
@@ -32,7 +37,7 @@
           {% include icon-links.html %}
         </div>
 
-        <div class="executive-summary no-print" itemprop="description">
+        <div class="executive-summary" itemprop="description">
           {{ site.resume_header_intro }}
         </div>
 

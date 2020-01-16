@@ -1,8 +1,13 @@
 # Skills
 # Passion for technology
 - skill: Passion for technology
-  description: I am always eager to develop my skill set. I have experience with languages like Java, as well as HTML, CSS, JavaScript. I also have a lot of knowledge about frameworks like Spring, Selenium, JUnit or TestNG, not to mention BDD tools like Cucumber.
-
+  description: <ul class="fa-ul">
+  <li><span class="fa-li"><i class="fa fa-check"></i></span>List icons can</li>
+  <li><span class="fa-li"><i class="fa fa-check"></i></span>be used to</li>
+  <li><span class="fa-li"><i class="fa fa-check"></i></span>replace bullets</li>
+  <li><span class="fa-li"><i class="fa fa-check"></i></span>in lists</li>
+</ul>
+  
 # Experienced tester
 - skill: Experienced tester
   description: I have developed automation frameworks from the ground up, as well as maintained and refactored existing projects, to ensure compatibility with continuous integration and deployment strategies.
