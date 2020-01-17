@@ -1,18 +1,18 @@
 # Skills
 - skill: Programming and Markup Languages
-  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Proficient with <strong>Core Java (8), JavaScript, PL/SQL, HTML, XML</li></ul>
+  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Proficient with <strong>Core Java (8), JavaScript, PL/SQL, HTML, XML</strong></li></ul>
   
 - skill: JEE and Spring Framework
-  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Solid Experience with <strong>Spring Boot, Spring Core/Beans, Spring WebMVC, Spring Security, Spring Data JPA/Hibernate</li><li><span class="fa-li"><i class="fa fa-check"></i></span>Hands-on Experience with <strong>JSP/Servlets, JDBC, JTA (Transactions), JMS (Messaging)</li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience with Message Brokers like <strong>RabbitMQ, ActiveMQ, Apache Kafka</strong></li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in writing <strong>JUnit</strong> and <strong>Selenium</strong> test cases</li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience with Web Application Servers like <strong>Tomcat, Weblogic, Jetty</strong></li></ul>
+  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Solid Experience with <strong>Spring Boot, Spring Core/Beans, Spring WebMVC, Spring Security, Spring Data JPA/Hibernate</strong></li><li><span class="fa-li"><i class="fa fa-check"></i></span>Hands-on Experience with <strong>JSP/Servlets, JDBC, JTA (Transactions), JMS (Messaging)</strong></li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience with Message Brokers like <strong>RabbitMQ, ActiveMQ, Apache Kafka</strong></li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in writing <strong>JUnit</strong> and <strong>Selenium</strong> test cases</li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience with Web Application Servers like <strong>Tomcat, Weblogic, Jetty</strong></li></ul>
 
 - skill: Web Services and API
-  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in building secured RESTful APIs with JWT and OAuth</li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in working with SOAP web services</li></ul>
+  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in building secured <strong>RESTful APIs</strong> with JWT and OAuth</li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in working with SOAP web services</li></ul>
 
 - skill: Frontend and UI
   description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in building UI Layer with <strong>HTML, CSS, Vanilla JavaScript, JQuery, AJAX, JSON</strong></li><li><span class="fa-li"><i class="fa fa-check"></i></span>Development experience with various UI Frameworks and JS libraries like <strong>Angular, Backbone.js, Underscore.js, Moment.js, RequireJS, Twitter Bootstrap</strong></li></ul>
 
 - skill: Cloud and Microservices
-  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in building Microservices with Spring Boot and Spring Cloud</li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in Cloud Technologies like AWS, Oracle Cloud</li></ul>
+  description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in building <strong>Microservices</strong> with Spring Boot and Spring Cloud</li><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience in Cloud Technologies like AWS, Oracle Cloud</li></ul>
 
 - skill: Database
   description: <ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-check"></i></span>Experience with RDBMS databases like <strong>Oracle 12C, MySQL, MSSQL Server</strong> and NOSQL databases like <strong>Cassandra, MongoDB, Neo4J (GraphDB)</strong></li></ul>
