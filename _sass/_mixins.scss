@@ -50,6 +50,31 @@
 
 // type utilities
 
+@mixin calibri {
+  font-family: font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+
+@mixin calibri_light {
+  @include calibri;
+  font-weight: 300;
+}
+
+@mixin calibri_regular {
+  @include calibri;
+  font-weight: 400;
+}
+
+@mixin calibri_bold {
+  @include calibri;
+  font-weight: 700;
+}
+
+@mixin calibri_extrabold {
+  @include calibri;
+  font-weight: 800;
+}
+
+
 @mixin sans {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }

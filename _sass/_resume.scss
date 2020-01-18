@@ -8,7 +8,7 @@
   margin-bottom: 1.5rem;
 
   h2 {
-    @include sans;
+    @include calibri;
     font-weight: 900;
     font-size: 1.75rem;
     letter-spacing: -.05rem;
@@ -30,17 +30,17 @@
   }
 
   .header-name {
-    @include sans;
-    font-size: 3rem;
-    font-weight: 900;
+    @include calibri;
+    font-size: 4rem;
+    font-weight: 1000;
     text-align: center;
-    letter-spacing: -.15rem;
+    letter-spacing: 0.05rem;
     line-height: 1;
     margin: 1rem 0 2rem;
   }
 
   .header-contact-info {
-    @include sans;
+    @include calibri;
     text-align: center;
   }
   .header-contact-info p a {
@@ -53,7 +53,7 @@
     @include clearfix;
 
     .header-title {
-      @include sans;
+      @include calibri;
       font-weight: 300;
       font-size: 1.75rem;
       line-height: 2rem;
@@ -141,7 +141,7 @@
   .resume-item { margin-bottom: 2rem; }
 
   .resume-item-title {
-    @include sans_bold;
+    @include calibri_bold;
     margin: 0 0 .75rem;
     font-size: 1.5rem;
     letter-spacing: -.05rem;
