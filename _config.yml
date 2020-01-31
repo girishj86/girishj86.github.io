@@ -41,7 +41,7 @@ resume_social_links:
   # resume_twitter_url:           "https://twitter.com/AndreyDbr"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "insert website here"
+resume_website_url:           "http://www.letsprepareforinterview.com"
 resume_print_social_links:      false
 
 # Design settings
