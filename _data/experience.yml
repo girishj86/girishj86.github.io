@@ -1,9 +1,9 @@
 # Jobs
 # RSA Security
-- company: RSA Security
+- company: RSA Security (Dell Technologies)
   position: Software Principal Engineer
   duration: December 2019 &mdash; Present
-  summary: Working on RSA Adaptive Authentication, a Fraud and Risk Intelligence product for Banking
+  summary: Working on RSA Adaptive Authentication for e-commerce product based on 3DS2.0 protocol for secured transactions<ul class="fa-ul"><li><span class="fa-li"><i class="fa fa-angle-double-right"></i></span>Leading the design and development of management application which includes OAuth2 based Authorization Server and Customers Configuration Manager</li><li><span class="fa-li"><i class="fa fa-angle-double-right"></i></span>Designed and Developed Spring Security OAuth2 based authorization server to generate access tokens for user Authentication and Authorization</li><li><span class="fa-li"><i class="fa fa-angle-double-right"></i></span>Implemented and built the Authorization and Resource servers on Spring boot based microservices architecture using Spring cloud components like Eureka Server/Client for Discovery Service, Zuul API Gateway with Ribbon load balancing, Hystrix support for circuit breaking</li><li><span class="fa-li"><i class="fa fa-angle-double-right"></i></span>Built RESTful APIs secured with OAuth2 and JWT based access tokens to be consumed by Angular Client</li></ul>
 
 # Oracle
 - company: Oracle India Pvt Ltd
