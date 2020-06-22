@@ -21,8 +21,8 @@ body{
 .wrapper:after { content:""; display:table; }
 .wrapper:after { clear: both; }
 .wrapper {
-  max-width: 65em;
-  padding: 0 10em;
+  max-width: 50em;
+  padding: 0 50px;
   margin: 0 auto;
   zoom: 1;
 }
